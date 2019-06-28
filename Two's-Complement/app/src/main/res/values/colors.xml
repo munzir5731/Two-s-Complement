@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#36ecaf</color>
+    <color name="colorPrimaryDark">#c53879cf</color>
+    <color name="colorAccent">#48fb37</color>
+    <color name="holo">#94cbfb</color>
+    <color name="holo2">#a7d4fc</color>
+
+    <color name="radio1">#34fda7</color>
+    <color name="radio2">#ffc819</color>
+    <color name="background">#7dfc8a</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="bg">#80fb8d</color>
+    <color name="button_layout">#eceff1</color>
+    <color name="button_layout_ropple">#80fb8d</color>
+    <color name="mode_button_ripple">#00abc6</color>
+    <color name="splashBackground">#00bff3</color>
+</resources>
